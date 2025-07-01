@@ -13,7 +13,7 @@ The Dart Calculator:
 - Returns to the main menu after each operation, enabling multiple calculations in one session.
 
 # Learning Objectives
-This project is designed to help you understand the following Dart concepts, as outlined in the Dart Programming Notes:
+This project is designed to help you understand the following Dart concepts, as outlined in the [Dart Programming Notes (Download PDF)](./Dart_Programming_Notes.pdf).:
 
 1. Variables:
    - The calculator uses `double` variables to store user inputs (e.g., `firstNum` and `secondNum`), demonstrating how to declare and initialize variables.
