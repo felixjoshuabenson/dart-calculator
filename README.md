@@ -2,7 +2,7 @@
 A Dart calculator project for Flutter mobile app development beginners.
 This is a beginner-friendly console-based calculator built in Dart. It is designed to help new Flutter and Dart developers understand fundamental programming concepts. The project demonstrates key Dart features such as variables, built-in types, operators, and control flow, which are essential for building Flutter mobile applications. By exploring this project, you'll see how these concepts are applied in a practical, interactive program that performs basic arithmetic operations.
 
-This project is perfect for those new to Dart and Flutter, as it introduces core programming ideas in a simple, easy-to-follow way. The code is well-commented and aligns with the Dart basics covered in my [LinkedIn post on Dart Basics](https://linkedin.com/in/felix-joshua-benson-2a9547146/)..
+This project is perfect for those new to Dart and Flutter, as it introduces core programming ideas in a simple, easy-to-follow way. The code is well-commented and aligns with the Dart basics covered in my [LinkedIn post on Dart Basics](https://www.linkedin.com/posts/felix-joshua-benson-2a9547146_flutter-dart-mobiledevelopment-activity-7346190926148481025-1oBz?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACNR0OEBiTIBhYPuI9nflPuns8mSUY7OzI8)..
 
 # Features
 The Dart Calculator:
